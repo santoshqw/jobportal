@@ -2,7 +2,11 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div className='text-red-400 bg-green-200'>App</div>
+     <div data-theme="lofi">
+    <div className='text-error'>
+      <button className='btn btn-primary'>button</button>
+    </div>
+     </div>
     // testing my branch santosh
   )
 }
