@@ -3,10 +3,15 @@ import cors from 'cors'
 import dotenv from 'dotenv';
 dotenv.config(); 
 const app = express();
+import connectDB from './config/connectDB.js'
 
 // Middleware
 app.use(cors()); 
 app.use(express.json()); 
+
+//database connection
+connectDB();
+
 
 app.get("/", (req, res) => {
   res.send("hello from server.");
