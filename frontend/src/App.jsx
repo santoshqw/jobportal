@@ -1,14 +1,31 @@
-import React from 'react'
+import React from "react";
+import Navbar from "./Component/Navbar.jsx";
+import { Routes, Route } from "react-router-dom";
+
+import Home from "./Component/Pages/Home.jsx";
+import Jobs from "./Component/Pages/Jobs.jsx";
+import About from "./Component/Pages/About.jsx";
+import Contact from "./Component/Pages/Contact.jsx";
+import Login from "./Component/Pages/Login.jsx";
+import Register from "./Component/Pages/Register.jsx";
+
 
 const App = () => {
   return (
-     <div data-theme="lofi">
-    <div className='text-error'>
-      <button className='btn btn-primary'>button</button>
-    </div>
-     </div>
-    // testing my branch santosh
-  )
-}
+    <div className="min-h-screen bg-gray-50">
+      <Navbar />
 
-export default App
+      <Routes>
+        <Route path="/" element={<Home />} />
+
+        <Route path="/about" element={<About />} />
+        <Route path="/jobs" element={<Jobs />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/register" element={<Register />} />
+      </Routes>
+    </div>
+  );
+};
+
+export default App;
