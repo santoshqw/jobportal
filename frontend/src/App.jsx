@@ -8,7 +8,7 @@ import About from "./Component/Pages/About.jsx";
 import Contact from "./Component/Pages/Contact.jsx";
 import Login from "./Component/Pages/Login.jsx";
 import Register from "./Component/Pages/Register.jsx";
-
+import LandingPage from "./Component/Pages/LandingPage.jsx";
 
 const App = () => {
   return (
@@ -16,8 +16,14 @@ const App = () => {
       <Navbar />
 
       <Routes>
-        <Route path="/" element={<Home />} />
-
+        <Route
+          path="/"
+          element={
+            <Home>
+              <LandingPage />
+            </Home>
+          }
+        />
         <Route path="/about" element={<About />} />
         <Route path="/jobs" element={<Jobs />} />
         <Route path="/contact" element={<Contact />} />
