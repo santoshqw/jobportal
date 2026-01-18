@@ -1,0 +1,216 @@
+{
+"jobs":[
+    {
+        "id":1,
+        "title":"FrontEndDeveloper",
+        "company":"Google",
+        "Location":"USA",
+        "Type":"FullTime",
+        "Salary":"$120,000 - $150,000",
+        "description":"We are looking for a skilled Front-End Developer to join our dynamic team. You will be responsible for implementing visual elements that users see and interact with in a web application. You should have a strong understanding of HTML, CSS, and JavaScript, as well as experience with popular frameworks like React or Angular.",
+        "Requirements":[
+            "Proven experience as a Front-End Developer or similar role",
+            "Strong proficiency in HTML, CSS, and JavaScript",
+            "Experience with React, Angular, or Vue.js",
+            "Familiarity with responsive design and cross-browser compatibility",
+            "Good problem-solving skills and attention to detail"
+
+        ],
+        "Image":"/profile.png",
+        "PostedDate":"2024-06-15"
+    },
+    {
+        "id":2,
+        "title":"BackEndDeveloper",
+        "company":"Amazon",
+        "Location":"UK",
+        "Type":"PartTime",
+        "Salary":"$100,000 - $130,000",
+        "description":"We are seeking a talented Back-End Developer to join our team. You will be responsible for server-side web application logic and integration of the front-end part. A basic understanding of front-end technologies is also required.",
+        "Requirements":[
+            "Proven experience as a Back-End Developer or similar role",
+            "Strong proficiency in server-side languages such as Node.js, Python, Ruby, or Java",
+            "Experience with database management systems like MySQL, PostgreSQL, or MongoDB",
+            "Familiarity with RESTful API design and development",
+            "Excellent problem-solving skills and ability to work in a team"
+        ],
+        "PostedDate":"2024-06-10"
+    },
+    {
+        "id":3,
+        "title":"FullStackDeveloper",
+        "company":"Microsoft",
+        "Location":"Canada",
+        "Type":"Contract",
+        "Salary":"$110,000 - $140,000",
+        "description":"We are looking for a Full-Stack Developer to work on both the front-end and back-end of our web applications. You should be comfortable with multiple programming languages and frameworks, and have a passion for building efficient and scalable web applications.",
+        "Requirements":[
+            "Proven experience as a Full-Stack Developer or similar role",
+            "Proficiency in front-end technologies such as HTML, CSS, JavaScript, and frameworks like React or Angular",
+            "Strong knowledge of back-end technologies such as Node.js, Python, Ruby, or Java",
+            "Experience with database management systems like MySQL, PostgreSQL, or MongoDB",
+            "Ability to work independently and in a team environment"
+        ],
+        "PostedDate":"2024-06-12"
+    },
+     {
+        "id":1,
+        "title":"FrontEndDeveloper",
+        "company":"Google",
+        "Location":"USA",
+        "Type":"FullTime",
+        "Salary":"$120,000 - $150,000",
+        "description":"We are looking for a skilled Front-End Developer to join our dynamic team. You will be responsible for implementing visual elements that users see and interact with in a web application. You should have a strong understanding of HTML, CSS, and JavaScript, as well as experience with popular frameworks like React or Angular.",
+        "Requirements":[
+            "Proven experience as a Front-End Developer or similar role",
+            "Strong proficiency in HTML, CSS, and JavaScript",
+            "Experience with React, Angular, or Vue.js",
+            "Familiarity with responsive design and cross-browser compatibility",
+            "Good problem-solving skills and attention to detail"
+
+        ],
+        "Image":"/public/profile.png",
+        "PostedDate":"2024-06-15"
+    },
+    {
+        "id":2,
+        "title":"BackEndDeveloper",
+        "company":"Amazon",
+        "Location":"UK",
+        "Type":"PartTime",
+        "Salary":"$100,000 - $130,000",
+        "description":"We are seeking a talented Back-End Developer to join our team. You will be responsible for server-side web application logic and integration of the front-end part. A basic understanding of front-end technologies is also required.",
+        "Requirements":[
+            "Proven experience as a Back-End Developer or similar role",
+            "Strong proficiency in server-side languages such as Node.js, Python, Ruby, or Java",
+            "Experience with database management systems like MySQL, PostgreSQL, or MongoDB",
+            "Familiarity with RESTful API design and development",
+            "Excellent problem-solving skills and ability to work in a team"
+        ],
+        "PostedDate":"2024-06-10"
+    },
+    {
+        "id":3,
+        "title":"FullStackDeveloper",
+        "company":"Microsoft",
+        "Location":"Canada",
+        "Type":"Contract",
+        "Salary":"$110,000 - $140,000",
+        "description":"We are looking for a Full-Stack Developer to work on both the front-end and back-end of our web applications. You should be comfortable with multiple programming languages and frameworks, and have a passion for building efficient and scalable web applications.",
+        "Requirements":[
+            "Proven experience as a Full-Stack Developer or similar role",
+            "Proficiency in front-end technologies such as HTML, CSS, JavaScript, and frameworks like React or Angular",
+            "Strong knowledge of back-end technologies such as Node.js, Python, Ruby, or Java",
+            "Experience with database management systems like MySQL, PostgreSQL, or MongoDB",
+            "Ability to work independently and in a team environment"
+        ],
+        "PostedDate":"2024-06-12"
+    },
+     {
+        "id":1,
+        "title":"FrontEndDeveloper",
+        "company":"Google",
+        "Location":"USA",
+        "Type":"FullTime",
+        "Salary":"$120,000 - $150,000",
+        "description":"We are looking for a skilled Front-End Developer to join our dynamic team. You will be responsible for implementing visual elements that users see and interact with in a web application. You should have a strong understanding of HTML, CSS, and JavaScript, as well as experience with popular frameworks like React or Angular.",
+        "Requirements":[
+            "Proven experience as a Front-End Developer or similar role",
+            "Strong proficiency in HTML, CSS, and JavaScript",
+            "Experience with React, Angular, or Vue.js",
+            "Familiarity with responsive design and cross-browser compatibility",
+            "Good problem-solving skills and attention to detail"
+
+        ],
+        "Image":"/public/profile.png",
+        "PostedDate":"2024-06-15"
+    },
+    {
+        "id":2,
+        "title":"BackEndDeveloper",
+        "company":"Amazon",
+        "Location":"UK",
+        "Type":"PartTime",
+        "Salary":"$100,000 - $130,000",
+        "description":"We are seeking a talented Back-End Developer to join our team. You will be responsible for server-side web application logic and integration of the front-end part. A basic understanding of front-end technologies is also required.",
+        "Requirements":[
+            "Proven experience as a Back-End Developer or similar role",
+            "Strong proficiency in server-side languages such as Node.js, Python, Ruby, or Java",
+            "Experience with database management systems like MySQL, PostgreSQL, or MongoDB",
+            "Familiarity with RESTful API design and development",
+            "Excellent problem-solving skills and ability to work in a team"
+        ],
+        "PostedDate":"2024-06-10"
+    },
+    {
+        "id":3,
+        "title":"FullStackDeveloper",
+        "company":"Microsoft",
+        "Location":"Canada",
+        "Type":"Contract",
+        "Salary":"$110,000 - $140,000",
+        "description":"We are looking for a Full-Stack Developer to work on both the front-end and back-end of our web applications. You should be comfortable with multiple programming languages and frameworks, and have a passion for building efficient and scalable web applications.",
+        "Requirements":[
+            "Proven experience as a Full-Stack Developer or similar role",
+            "Proficiency in front-end technologies such as HTML, CSS, JavaScript, and frameworks like React or Angular",
+            "Strong knowledge of back-end technologies such as Node.js, Python, Ruby, or Java",
+            "Experience with database management systems like MySQL, PostgreSQL, or MongoDB",
+            "Ability to work independently and in a team environment"
+        ],
+        "PostedDate":"2024-06-12"
+    },
+     {
+        "id":1,
+        "title":"FrontEndDeveloper",
+        "company":"Google",
+        "Location":"USA",
+        "Type":"FullTime",
+        "Salary":"$120,000 - $150,000",
+        "description":"We are looking for a skilled Front-End Developer to join our dynamic team. You will be responsible for implementing visual elements that users see and interact with in a web application. You should have a strong understanding of HTML, CSS, and JavaScript, as well as experience with popular frameworks like React or Angular.",
+        "Requirements":[
+            "Proven experience as a Front-End Developer or similar role",
+            "Strong proficiency in HTML, CSS, and JavaScript",
+            "Experience with React, Angular, or Vue.js",
+            "Familiarity with responsive design and cross-browser compatibility",
+            "Good problem-solving skills and attention to detail"
+
+        ],
+        "Image":"/public/profile.png",
+        "PostedDate":"2024-06-15"
+    },
+    {
+        "id":2,
+        "title":"BackEndDeveloper",
+        "company":"Amazon",
+        "Location":"UK",
+        "Type":"PartTime",
+        "Salary":"$100,000 - $130,000",
+        "description":"We are seeking a talented Back-End Developer to join our team. You will be responsible for server-side web application logic and integration of the front-end part. A basic understanding of front-end technologies is also required.",
+        "Requirements":[
+            "Proven experience as a Back-End Developer or similar role",
+            "Strong proficiency in server-side languages such as Node.js, Python, Ruby, or Java",
+            "Experience with database management systems like MySQL, PostgreSQL, or MongoDB",
+            "Familiarity with RESTful API design and development",
+            "Excellent problem-solving skills and ability to work in a team"
+        ],
+        "PostedDate":"2024-06-10"
+    },
+    {
+        "id":3,
+        "title":"FullStackDeveloper",
+        "company":"Microsoft",
+        "Location":"Canada",
+        "Type":"Contract",
+        "Salary":"$110,000 - $140,000",
+        "description":"We are looking for a Full-Stack Developer to work on both the front-end and back-end of our web applications. You should be comfortable with multiple programming languages and frameworks, and have a passion for building efficient and scalable web applications.",
+        "Requirements":[
+            "Proven experience as a Full-Stack Developer or similar role",
+            "Proficiency in front-end technologies such as HTML, CSS, JavaScript, and frameworks like React or Angular",
+            "Strong knowledge of back-end technologies such as Node.js, Python, Ruby, or Java",
+            "Experience with database management systems like MySQL, PostgreSQL, or MongoDB",
+            "Ability to work independently and in a team environment"
+        ],
+        "PostedDate":"2024-06-12"
+    }
+]
+}
