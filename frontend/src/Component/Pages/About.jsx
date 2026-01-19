@@ -44,7 +44,7 @@ const About = () => {
             href="/register"
             className="inline-block bg-cyan-500 hover:bg-cyan-600 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-300"
           >
-            Join Us Today
+            Join Us Today !
           </a>
         </div>
       </div>
