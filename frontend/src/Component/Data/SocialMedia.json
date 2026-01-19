@@ -1,0 +1,26 @@
+{
+    "SocialMedia":
+    [
+        { "id": 1,
+            "name":"Facebook",
+            "link":"https://www.facebook.com",
+            "icon":"/facebook.jpeg"
+        },
+        { "id": 2,
+            "name":"Twitter",
+            "link":"https://www.twitter.com",
+            "icon":"/twitter.png"
+        },
+        {   "id": 3,
+            "name":"LinkedIn",
+            "link":"https://www.linkedin.com",
+            "icon":"/linkedin.png"
+            
+        },
+        {   "id": 4,
+            "name":"GitHub",
+            "link":"https://www.github.com",
+            "icon":"/github.png"
+        }
+    ]
+}

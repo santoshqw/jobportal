@@ -19,8 +19,13 @@ const LandingPage = () => {
               {job.company} | {job.Location} | {job.Type}
             </p>
             <p className="text-green-600 font-semibold mb-2">{job.Salary}</p>
+            <h2 className="font-semibold text-xl text-red-700 hover:text-red-600 transition-colors"> Description :</h2>
             <p className="mb-2">{job.description}</p>
             <ul className="list-disc ml-5 mb-2">
+            <h3 className="font-semibold text-xl text-red-700 hover:text-red-600 transition-colors">
+                   Requirements
+                </h3>
+
               {job.Requirements.map((req, index) => (
                 <li key={index}>{req}</li>
               ))}
