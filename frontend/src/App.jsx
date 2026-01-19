@@ -9,9 +9,11 @@ import Contact from "./Component/Pages/Contact.jsx";
 import Login from "./Component/Pages/Login.jsx";
 import Register from "./Component/Pages/Register.jsx";
 import LandingPage from "./Component/Pages/LandingPage.jsx";
+import Footer from "./Component/Pages/Footer.jsx";
 
 const App = () => {
   return (
+    <>
     <div className="min-h-screen bg-gray-50">
       <Navbar />
 
@@ -31,6 +33,8 @@ const App = () => {
         <Route path="/register" element={<Register />} />
       </Routes>
     </div>
+          <Footer />
+</>
   );
 };
 
