@@ -1,16 +1,54 @@
-# React + Vite
+# JobPortal 🌐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-Currently, two official plugins are available:
+**JobPortal** is a modern, responsive web application that connects job seekers with employers. Users can browse and apply for jobs, while companies can post and manage listings easily. Built with **React.js** and **Tailwind CSS**, JobPortal provides a smooth, intuitive experience on desktop and mobile devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Features ✅
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Browse and search job listings  
+- User authentication: login & signup  
+- Employer dashboard to post/manage jobs  
+- Contact form for inquiries  
+- Social media integration in footer  
+- Fully responsive design  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Demo
+
+> **Live Demo:** [Add your live website link here]
+
+---
+
+## Technologies Used 🛠️
+
+- **Frontend:** React.js, Tailwind CSS  
+- **Routing:** React Router DOM  
+- **Version Control:** Git & GitHub  
+- **Icons:** Font Awesome / Custom icons  
+- **Authentication & Security:** JWT / OAuth (if implemented)  
+
+---
+
+## Installation 💻
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/santoshqw/jobportal.git
+cd jobportal
+
+
+jobportal/
+│
+├─ public/          # Static files like index.html, images, icons
+├─ src/             # React source code
+│   ├─ components/  # Reusable React components (Navbar, Footer, Cards)
+│   ├─ pages/       # Pages (Home, About, Contact, Login, Dashboard)
+│   ├─ Data/        # JSON files (jobs, social links)
+│   ├─ App.jsx      # Main app with routing
+│   └─ index.js     # Entry point
+├─ package.json
+└─ README.md
